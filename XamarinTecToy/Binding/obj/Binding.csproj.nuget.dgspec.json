@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj",
+        "projectName": "Binding",
+        "projectPath": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj",
+        "packagesPath": "C:\\Users\\Felipe Rolim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Felipe Rolim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

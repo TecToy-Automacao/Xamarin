@@ -1,0 +1,10 @@
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\bin\Debug\Binding.dll
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\bin\Debug\Binding.pdb
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\__AndroidLibraryProjects__.zip
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.csproj.AssemblyReference.cache
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\class-parse.rsp
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.dll
+C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.pdb
