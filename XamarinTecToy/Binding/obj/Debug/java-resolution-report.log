@@ -1,0 +1,94 @@
+==== Cycle 1 ====
+
+The method '[Method] br.com.daruma.framework.mobile.PrinterManager access$000(br.com.daruma.framework.mobile.DarumaMobile p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$100(br.com.daruma.framework.mobile.DarumaMobile p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.xcheng.printerservice.b access$002(br.com.daruma.framework.mobile.PrinterManager p0, com.xcheng.printerservice.b p1)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$102(br.com.daruma.framework.mobile.PrinterManager p0, boolean p1)' was removed because its name contains a dollar sign.
+The method '[Method] br.com.daruma.framework.mobile.PrinterManager.PrinterManagerListener access$200(br.com.daruma.framework.mobile.PrinterManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$302(br.com.daruma.framework.mobile.PrinterManager p0, boolean p1)' was removed because its name contains a dollar sign.
+The method '[Method] void handleDecode(com.google.zxing.Result p0, android.graphics.Bitmap p1)' was removed because the Java parameter type 'com.google.zxing.Result' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.DarumaScannerHandler.DarumaScannerHandler' was removed because the Java parameter type 'java.util.Vector' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.dependencies.DecodeAsyncTask.DecodeAsyncTask' was removed because the Java parameter type 'java.util.Vector' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.dependencies.DecodeAsyncTask.DecodeAsyncTask' was removed because the Java parameter type 'com.google.zxing.ResultPointCallback' could not be found.
+The method '[Method] java.util.Vector<com.google.zxing.BarcodeFormat> parseDecodeFormats(android.content.Intent p0)' was removed because the Java return type 'java.util.Vector<com.google.zxing.BarcodeFormat>' could not be found.
+The method '[Method] java.util.Vector<com.google.zxing.BarcodeFormat> parseDecodeFormats(android.net.Uri p0)' was removed because the Java return type 'java.util.Vector<com.google.zxing.BarcodeFormat>' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.dependencies.DecodeHandler.DecodeHandler' was removed because the Java parameter type 'java.util.Hashtable' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.dependencies.DecodeThread.DecodeThread' was removed because the Java parameter type 'java.util.Vector' could not be found.
+The constructor 'Constructor: br.com.daruma.framework.mobile.camera.dependencies.DecodeThread.DecodeThread' was removed because the Java parameter type 'com.google.zxing.ResultPointCallback' could not be found.
+The method '[Method] void access$200(br.com.daruma.framework.mobile.camera.dependencies.InactivityTimer p0)' was removed because its name contains a dollar sign.
+The class '[Class] br.com.daruma.framework.mobile.camera.dependencies.ViewfinderResultPointCallback' was removed because the Java implemented interface type 'com.google.zxing.ResultPointCallback' could not be found.
+The method '[Method] void addPossibleResultPoint(com.google.zxing.ResultPoint p0)' was removed because the Java parameter type 'com.google.zxing.ResultPoint' could not be found.
+The class '[Class] br.com.daruma.framework.mobile.camera.dependencies.camera.PlanarYUVLuminanceSource' was removed because the Java base type 'com.google.zxing.LuminanceSource' could not be found.
+The method '[Method] android.bluetooth.BluetoothSocket access$000(br.com.daruma.framework.mobile.comunicacao.impl.BluetoothDaruma p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.Thread access$100(br.com.daruma.framework.mobile.comunicacao.impl.BluetoothDaruma p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.io.DataInputStream access$200(br.com.daruma.framework.mobile.comunicacao.impl.BluetoothDaruma p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$300(br.com.daruma.framework.mobile.comunicacao.impl.BluetoothDaruma p0, java.lang.String p1)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$400(br.com.daruma.framework.mobile.comunicacao.impl.BluetoothDaruma p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$000(br.com.daruma.framework.mobile.log.DarumaLogger p0, int p1, java.lang.String p2, java.lang.String p3, java.util.Date p4)' was removed because its name contains a dollar sign.
+The method '[Method] br.com.daruma.framework.mobile.tef.providers.destaxa.DestaxaProvider access$000()' was removed because its name contains a dollar sign.
+The method '[Method] br.com.daruma.framework.mobile.tef.TefIT4RCallback access$100(br.com.daruma.framework.mobile.tef.elgin.TefElgin p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$200(br.com.daruma.framework.mobile.tef.elgin.TefElgin p0)' was removed because its name contains a dollar sign.
+The class '[Class] br.com.daruma.framework.mobile.tef.providers.destaxa.DestaxaProvider' was removed because the Java implemented interface type 'br.com.destaxa.destaxasdk.DestaxaSDKTransactionListener' could not be found.
+The method '[Method] byte[] getBytesFromBitMatrix(com.google.zxing.common.BitMatrix p0, com.google.zxing.common.BitMatrix p1, int p2)' was removed because the Java parameter type 'com.google.zxing.common.BitMatrix' could not be found.
+The method '[Method] byte[] getBytesFromBitMatrix(com.google.zxing.common.BitMatrix p0, com.google.zxing.common.BitMatrix p1, int p2)' was removed because the Java parameter type 'com.google.zxing.common.BitMatrix' could not be found.
+The method '[Method] retrofit2.Retrofit getRetrofitInstance()' was removed because the Java return type 'retrofit2.Retrofit' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'retrofit2.Retrofit' could not be found.
+The method '[Method] com.sunmi.peripheral.printer.SunmiPrinterService access$002(br.com.itfast.tectoy.service.TecToyService p0, com.sunmi.peripheral.printer.SunmiPrinterService p1)' was removed because its name contains a dollar sign.
+The method '[Method] void access$100(br.com.itfast.tectoy.service.TecToyService p0, com.sunmi.peripheral.printer.SunmiPrinterService p1)' was removed because its name contains a dollar sign.
+The method '[Method] k0.a access$202(k0.a p0)' was removed because its name contains a dollar sign.
+The method '[Method] i0.a access$300(br.com.itfast.tectoy.service.TecToyService p0)' was removed because its name contains a dollar sign.
+The method '[Method] i0.a access$302(br.com.itfast.tectoy.service.TecToyService p0, i0.a p1)' was removed because its name contains a dollar sign.
+The method '[Method] i0.b access$400(br.com.itfast.tectoy.service.TecToyService p0)' was removed because its name contains a dollar sign.
+The method '[Method] i0.b access$402(br.com.itfast.tectoy.service.TecToyService p0, i0.b p1)' was removed because its name contains a dollar sign.
+The method '[Method] void access$500(br.com.itfast.tectoy.service.TecToyService p0)' was removed because its name contains a dollar sign.
+The method '[Method] int access$600(br.com.itfast.tectoy.service.TecToyService p0, byte[] p1, byte p2)' was removed because its name contains a dollar sign.
+The class '[Class] br.com.itfast.tectoy.service.TecToyService.6' was removed because the Java implemented interface type 'retrofit2.Callback<br.com.itfast.tectoy.service.PhotoRecognize>' could not be found.
+The method '[Method] j0.a access$000(br.com.itfast.tectoy.service.TecToyServiceScan p0)' was removed because its name contains a dollar sign.
+The method '[Method] j0.a access$002(br.com.itfast.tectoy.service.TecToyServiceScan p0, j0.a p1)' was removed because its name contains a dollar sign.
+The method '[Method] retrofit2.Call<br.com.itfast.tectoy.service.PhotoRecognize> recognizePerson(okhttp3.MultipartBody.Part p0)' was removed because the Java return type 'retrofit2.Call<br.com.itfast.tectoy.service.PhotoRecognize>' could not be found.
+The method '[Method] retrofit2.Call<br.com.itfast.tectoy.service.PhotoRecognize> registerPerson(okhttp3.MultipartBody.Part p0, okhttp3.MultipartBody.Part p1, okhttp3.MultipartBody.Part p2)' was removed because the Java return type 'retrofit2.Call<br.com.itfast.tectoy.service.PhotoRecognize>' could not be found.
+The method '[Method] retrofit2.Call<br.com.itfast.tectoy.service.PhotoAnalize> validatePhoto(okhttp3.MultipartBody.Part p0)' was removed because the Java return type 'retrofit2.Call<br.com.itfast.tectoy.service.PhotoAnalize>' could not be found.
+The method '[Method] void access$000(br.com.itfast.tectoy.service.UsbControl p0, android.content.Context p1, android.hardware.usb.UsbDevice p2)' was removed because its name contains a dollar sign.
+The method '[Method] br.com.itfast.tectoy.service.ConnectCallback access$100(br.com.itfast.tectoy.service.UsbControl p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000(com.hoho.android.usbserial.driver.CdcAcmSerialDriver p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000(com.hoho.android.usbserial.driver.ProlificSerialDriver p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$100(com.hoho.android.usbserial.driver.ProlificSerialDriver.ProlificSerialPort p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000(com.orbbec.astra.android.AstraAndroidContext p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$100(com.orbbec.astra.android.AstraAndroidContext p0, java.lang.Iterable p1, java.lang.Iterable p2)' was removed because its name contains a dollar sign.
+The method '[Method] void access$200(com.orbbec.astra.android.AstraAndroidContext p0, android.hardware.usb.UsbDevice p1)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.HashSet access$000(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Queue access$100(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.orbbec.astra.android.AstraDeviceManagerListener access$200(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Queue access$300(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$402(com.orbbec.astra.android.AstraDeviceManager p0, boolean p1)' was removed because its name contains a dollar sign.
+The method '[Method] com.orbbec.astra.android.UsbDeviceAccessBroker.UsbDeviceAccessEventListener access$500(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.orbbec.astra.android.UsbDeviceAccessBroker access$600(com.orbbec.astra.android.AstraDeviceManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000(com.orbbec.astra.android.UsbDeviceAccessBroker p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Hashtable access$100(com.orbbec.astra.android.UsbDeviceAccessBroker p0)' was removed because its name contains a dollar sign.
+The method '[Method] android.hardware.usb.UsbManager access$200(com.orbbec.astra.android.UsbDeviceAccessBroker p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.orbbec.astra.android.unity3d.AstraUnityPlayerActivity' was removed because the Java base type 'com.unity3d.player.UnityPlayerActivity' could not be found.
+The method '[Method] java.lang.String access$000(com.phi.gertec.sat.satger.SatGerConnectionManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.phi.gertec.sat.satger.Logger access$100(com.phi.gertec.sat.satger.SatGerConnectionManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] boolean access$200(com.phi.gertec.sat.satger.SatGerConnectionManager p0, android.hardware.usb.UsbDevice p1)' was removed because its name contains a dollar sign.
+The method '[Method] void access$300(com.phi.gertec.sat.satger.SatGerConnectionManager p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.phi.gertec.sat.serial.CommonUsbSerialPort access$402(com.phi.gertec.sat.satger.SatGerConnectionManager p0, com.phi.gertec.sat.serial.CommonUsbSerialPort p1)' was removed because its name contains a dollar sign.
+The method '[Method] android.hardware.usb.UsbDeviceConnection access$502(com.phi.gertec.sat.satger.SatGerConnectionManager p0, android.hardware.usb.UsbDeviceConnection p1)' was removed because its name contains a dollar sign.
+The method '[Method] java.io.ByteArrayOutputStream access$000(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$100(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.phi.gertec.sat.satger.Logger access$200(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] android.content.Context access$300(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.phi.gertec.sat.satger.SatGerConnectionManager access$400(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.concurrent.ExecutorService access$500(com.phi.gertec.sat.satger.SatGerProtocolParser p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$000(com.phi.gertec.sat.serial.CdcAcmSerialDriver p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.phi.gertec.sat.satger.Logger access$100(com.phi.gertec.sat.serial.CdcAcmSerialDriver p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.sunmi.peripheral.printer.InnerPrinterManager access$100()' was removed because its name contains a dollar sign.
+The class '[Class] i.h.a' was removed because the Java implemented interface type 'i.t<T>' could not be found.
+The class '[Class] i.p.a' was removed because the Java base type 'g.w<T>' could not be found.
+
+==== Cycle 2 ====
+
+The method '[Method] br.com.daruma.framework.mobile.camera.dependencies.camera.PlanarYUVLuminanceSource buildLuminanceSource(byte[] p0, int p1, int p2)' was removed because the Java return type 'br.com.daruma.framework.mobile.camera.dependencies.camera.PlanarYUVLuminanceSource' could not be found.
+The class '[Class] br.com.itfast.tectoy.service.TecToyService.7' was removed because the Java implemented interface type 'retrofit2.Callback<br.com.itfast.tectoy.service.PhotoRecognize>' could not be found.
+The class '[Class] i.h.b' was removed because the Java implemented interface type 'i.t<T>' could not be found.
+

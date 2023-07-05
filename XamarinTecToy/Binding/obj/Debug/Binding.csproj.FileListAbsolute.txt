@@ -8,3 +8,14 @@ C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\class-parse.r
 C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.csproj.CoreCompileInputs.cache
 C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.dll
 C:\Users\Felipe Rolim\source\repos\XamarinTecToy\Binding\obj\Debug\Binding.pdb
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\bin\Debug\Binding.dll
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\bin\Debug\Binding.pdb
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\Binding.csproj.AssemblyReference.cache
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\Binding.csproj.CoreCompileInputs.cache
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\Binding.dll
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\Binding.pdb
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\__AndroidLibraryProjects__.zip
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\stamp\_BuildLibraryImportsCache.stamp
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\class-parse.rsp
+E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\Binding\obj\Debug\java-resolution-report.log

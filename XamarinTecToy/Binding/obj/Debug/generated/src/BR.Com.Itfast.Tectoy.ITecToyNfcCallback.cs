@@ -74,7 +74,7 @@ namespace BR.Com.Itfast.Tectoy {
 		static Delegate GetRetornarValor_Ljava_lang_String_Handler ()
 		{
 			if (cb_retornarValor_Ljava_lang_String_ == null)
-				cb_retornarValor_Ljava_lang_String_ = JNINativeWrapper.CreateDelegate ((_JniMarshal_PPL_V) n_RetornarValor_Ljava_lang_String_);
+				cb_retornarValor_Ljava_lang_String_ = JNINativeWrapper.CreateDelegate (new _JniMarshal_PPL_V (n_RetornarValor_Ljava_lang_String_));
 			return cb_retornarValor_Ljava_lang_String_;
 		}
 

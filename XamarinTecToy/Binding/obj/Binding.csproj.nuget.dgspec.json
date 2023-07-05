@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj": {}
+    "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj": {
+    "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj",
+        "projectUniqueName": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
         "projectName": "Binding",
-        "projectPath": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\Binding.csproj",
-        "packagesPath": "C:\\Users\\Felipe Rolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe Rolim\\source\\repos\\XamarinTecToy\\Binding\\obj\\",
+        "projectPath": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
+        "packagesPath": "C:\\Users\\IT Fast\\.nuget\\packages\\",
+        "outputPath": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Felipe Rolim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IT Fast\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -40,6 +40,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {

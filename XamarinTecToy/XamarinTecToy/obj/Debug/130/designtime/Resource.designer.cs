@@ -14,7 +14,7 @@ namespace XamarinTecToy
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.1.0.5")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.2.0.99")]
 	public partial class Resource
 	{
 		
@@ -9204,10 +9204,13 @@ namespace XamarinTecToy
 		{
 			
 			// aapt resource value: 0x7F110000
-			public const int image_share_filepaths = 2131820544;
+			public const int device_filter = 2131820544;
 			
 			// aapt resource value: 0x7F110001
-			public const int xamarin_essentials_fileprovider_file_paths = 2131820545;
+			public const int image_share_filepaths = 2131820545;
+			
+			// aapt resource value: 0x7F110002
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820546;
 			
 			static Xml()
 			{

@@ -1,51 +1,108 @@
 XamarinTecToy.MainActivity, XamarinTecToy;crc642a20111c1f951464.MainActivity
 XamarinTecToy.MainActivity;crc642a20111c1f951464.MainActivity
 xamarintectoy.MainActivity;crc642a20111c1f951464.MainActivity
-Woyou.Aidlservice.Jiuiv5.ICallback, Binding;woyou.aidlservice.jiuiv5.ICallback
-Woyou.Aidlservice.Jiuiv5.ICallback;woyou.aidlservice.jiuiv5.ICallback
-woyou.aidlservice.jiuiv5.ICallback;woyou.aidlservice.jiuiv5.ICallback
-Woyou.Aidlservice.Jiuiv5.ILcdCallback, Binding;woyou.aidlservice.jiuiv5.ILcdCallback
-Woyou.Aidlservice.Jiuiv5.ILcdCallback;woyou.aidlservice.jiuiv5.ILcdCallback
-woyou.aidlservice.jiuiv5.ILcdCallback;woyou.aidlservice.jiuiv5.ILcdCallback
-Woyou.Aidlservice.Jiuiv5.ITax, Binding;woyou.aidlservice.jiuiv5.ITax
-Woyou.Aidlservice.Jiuiv5.ITax;woyou.aidlservice.jiuiv5.ITax
-woyou.aidlservice.jiuiv5.ITax;woyou.aidlservice.jiuiv5.ITax
-Woyou.Aidlservice.Jiuiv5.IWoyouService, Binding;woyou.aidlservice.jiuiv5.IWoyouService
-Woyou.Aidlservice.Jiuiv5.IWoyouService;woyou.aidlservice.jiuiv5.IWoyouService
-woyou.aidlservice.jiuiv5.IWoyouService;woyou.aidlservice.jiuiv5.IWoyouService
-Com.Xcheng.Printerservice.IPrinterCallback, Binding;com.xcheng.printerservice.IPrinterCallback
-Com.Xcheng.Printerservice.IPrinterCallback;com.xcheng.printerservice.IPrinterCallback
-com.xcheng.printerservice.IPrinterCallback;com.xcheng.printerservice.IPrinterCallback
-Com.Xcheng.Printerservice.IPrinterService, Binding;com.xcheng.printerservice.IPrinterService
-Com.Xcheng.Printerservice.IPrinterService;com.xcheng.printerservice.IPrinterService
-com.xcheng.printerservice.IPrinterService;com.xcheng.printerservice.IPrinterService
-Com.Sunmi.Scanner.IScanInterface, Binding;com.sunmi.scanner.IScanInterface
-Com.Sunmi.Scanner.IScanInterface;com.sunmi.scanner.IScanInterface
-com.sunmi.scanner.IScanInterface;com.sunmi.scanner.IScanInterface
-Com.Sunmi.Idcardservice.ICardCallback, Binding;com.sunmi.idcardservice.CardCallback
-Com.Sunmi.Idcardservice.ICardCallback;com.sunmi.idcardservice.CardCallback
-com.sunmi.idcardservice.CardCallback;com.sunmi.idcardservice.CardCallback
-Com.Sunmi.Idcardservice.IDCardServiceAidl, Binding;com.sunmi.idcardservice.IDCardServiceAidl
-Com.Sunmi.Idcardservice.IDCardServiceAidl;com.sunmi.idcardservice.IDCardServiceAidl
-com.sunmi.idcardservice.IDCardServiceAidl;com.sunmi.idcardservice.IDCardServiceAidl
-Com.Sunmi.Idcardservice.IMiFareCardAidl, Binding;com.sunmi.idcardservice.MiFareCardAidl
-Com.Sunmi.Idcardservice.IMiFareCardAidl;com.sunmi.idcardservice.MiFareCardAidl
-com.sunmi.idcardservice.MiFareCardAidl;com.sunmi.idcardservice.MiFareCardAidl
-BR.Com.Itfast.Tectoy.IConnectCallback, Binding;br.com.itfast.tectoy.ConnectCallback
-BR.Com.Itfast.Tectoy.IConnectCallback;br.com.itfast.tectoy.ConnectCallback
-br.com.itfast.tectoy.ConnectCallback;br.com.itfast.tectoy.ConnectCallback
-BR.Com.Itfast.Tectoy.IControl, Binding;br.com.itfast.tectoy.Control
-BR.Com.Itfast.Tectoy.IControl;br.com.itfast.tectoy.Control
-br.com.itfast.tectoy.Control;br.com.itfast.tectoy.Control
+Com.Sunmi.Peripheral.Printer.IWoyouConsts, Binding;com.sunmi.peripheral.printer.WoyouConsts
+Com.Sunmi.Peripheral.Printer.IWoyouConsts;com.sunmi.peripheral.printer.WoyouConsts
+com.sunmi.peripheral.printer.WoyouConsts;com.sunmi.peripheral.printer.WoyouConsts
+Com.Phi.Gertec.Sat.Serial.IUsbSerialDriver, Binding;com.phi.gertec.sat.serial.UsbSerialDriver
+Com.Phi.Gertec.Sat.Serial.IUsbSerialDriver;com.phi.gertec.sat.serial.UsbSerialDriver
+com.phi.gertec.sat.serial.UsbSerialDriver;com.phi.gertec.sat.serial.UsbSerialDriver
+Com.Phi.Gertec.Sat.Serial.IUsbSerialPort, Binding;com.phi.gertec.sat.serial.UsbSerialPort
+Com.Phi.Gertec.Sat.Serial.IUsbSerialPort;com.phi.gertec.sat.serial.UsbSerialPort
+com.phi.gertec.sat.serial.UsbSerialPort;com.phi.gertec.sat.serial.UsbSerialPort
+Com.Phi.Gertec.Sat.Serial.SerialInputOutputManager+IListener, Binding;com.phi.gertec.sat.serial.SerialInputOutputManager$Listener
+Com.Phi.Gertec.Sat.Serial.SerialInputOutputManager.IListener;com.phi.gertec.sat.serial.SerialInputOutputManager$Listener
+com.phi.gertec.sat.serial.SerialInputOutputManager$Listener;com.phi.gertec.sat.serial.SerialInputOutputManager$Listener
+Com.Phi.Gertec.Sat.Satger.SatGerConnectionManager+IListener, Binding;com.phi.gertec.sat.satger.SatGerConnectionManager$Listener
+Com.Phi.Gertec.Sat.Satger.SatGerConnectionManager.IListener;com.phi.gertec.sat.satger.SatGerConnectionManager$Listener
+com.phi.gertec.sat.satger.SatGerConnectionManager$Listener;com.phi.gertec.sat.satger.SatGerConnectionManager$Listener
+Com.Phi.Gertec.Sat.Satger.SatGerConnectionManager+IListenerImplementor, Binding;mono.com.phi.gertec.sat.satger.SatGerConnectionManager_ListenerImplementor
+Com.Phi.Gertec.Sat.Satger.SatGerConnectionManager.IListenerImplementor;mono.com.phi.gertec.sat.satger.SatGerConnectionManager_ListenerImplementor
+mono.com.phi.gertec.sat.satger.SatGerConnectionManager_ListenerImplementor;mono.com.phi.gertec.sat.satger.SatGerConnectionManager_ListenerImplementor
+Com.Phi.Gertec.Sat.Satger.SatGerLib+IOnDataReceived, Binding;com.phi.gertec.sat.satger.SatGerLib$OnDataReceived
+Com.Phi.Gertec.Sat.Satger.SatGerLib.IOnDataReceived;com.phi.gertec.sat.satger.SatGerLib$OnDataReceived
+com.phi.gertec.sat.satger.SatGerLib$OnDataReceived;com.phi.gertec.sat.satger.SatGerLib$OnDataReceived
+Com.Orbbec.Astra.StreamReader+IFrameListener, Binding;com.orbbec.astra.StreamReader$FrameListener
+Com.Orbbec.Astra.StreamReader.IFrameListener;com.orbbec.astra.StreamReader$FrameListener
+com.orbbec.astra.StreamReader$FrameListener;com.orbbec.astra.StreamReader$FrameListener
+Com.Orbbec.Astra.StreamReader+IFrameListenerImplementor, Binding;mono.com.orbbec.astra.StreamReader_FrameListenerImplementor
+Com.Orbbec.Astra.StreamReader.IFrameListenerImplementor;mono.com.orbbec.astra.StreamReader_FrameListenerImplementor
+mono.com.orbbec.astra.StreamReader_FrameListenerImplementor;mono.com.orbbec.astra.StreamReader_FrameListenerImplementor
+Com.Orbbec.Astra.Android.IAstraDeviceManagerListener, Binding;com.orbbec.astra.android.AstraDeviceManagerListener
+Com.Orbbec.Astra.Android.IAstraDeviceManagerListener;com.orbbec.astra.android.AstraDeviceManagerListener
+com.orbbec.astra.android.AstraDeviceManagerListener;com.orbbec.astra.android.AstraDeviceManagerListener
+Com.Orbbec.Astra.Android.IAstraDeviceManagerListenerImplementor, Binding;mono.com.orbbec.astra.android.AstraDeviceManagerListenerImplementor
+Com.Orbbec.Astra.Android.IAstraDeviceManagerListenerImplementor;mono.com.orbbec.astra.android.AstraDeviceManagerListenerImplementor
+mono.com.orbbec.astra.android.AstraDeviceManagerListenerImplementor;mono.com.orbbec.astra.android.AstraDeviceManagerListenerImplementor
+Com.Orbbec.Astra.Android.UsbDeviceAccessBroker+IUsbDeviceAccessEventListener, Binding;com.orbbec.astra.android.UsbDeviceAccessBroker$UsbDeviceAccessEventListener
+Com.Orbbec.Astra.Android.UsbDeviceAccessBroker.IUsbDeviceAccessEventListener;com.orbbec.astra.android.UsbDeviceAccessBroker$UsbDeviceAccessEventListener
+com.orbbec.astra.android.UsbDeviceAccessBroker$UsbDeviceAccessEventListener;com.orbbec.astra.android.UsbDeviceAccessBroker$UsbDeviceAccessEventListener
+Com.Orbbec.Astra.Android.UsbDeviceAccessBroker+IUsbDeviceAccessEventListenerImplementor, Binding;mono.com.orbbec.astra.android.UsbDeviceAccessBroker_UsbDeviceAccessEventListenerImplementor
+Com.Orbbec.Astra.Android.UsbDeviceAccessBroker.IUsbDeviceAccessEventListenerImplementor;mono.com.orbbec.astra.android.UsbDeviceAccessBroker_UsbDeviceAccessEventListenerImplementor
+mono.com.orbbec.astra.android.UsbDeviceAccessBroker_UsbDeviceAccessEventListenerImplementor;mono.com.orbbec.astra.android.UsbDeviceAccessBroker_UsbDeviceAccessEventListenerImplementor
+Com.Hoho.Android.Usbserial.Util.SerialInputOutputManager+IListener, Binding;com.hoho.android.usbserial.util.SerialInputOutputManager$Listener
+Com.Hoho.Android.Usbserial.Util.SerialInputOutputManager.IListener;com.hoho.android.usbserial.util.SerialInputOutputManager$Listener
+com.hoho.android.usbserial.util.SerialInputOutputManager$Listener;com.hoho.android.usbserial.util.SerialInputOutputManager$Listener
+Com.Hoho.Android.Usbserial.Util.SerialInputOutputManager+IListenerImplementor, Binding;mono.com.hoho.android.usbserial.util.SerialInputOutputManager_ListenerImplementor
+Com.Hoho.Android.Usbserial.Util.SerialInputOutputManager.IListenerImplementor;mono.com.hoho.android.usbserial.util.SerialInputOutputManager_ListenerImplementor
+mono.com.hoho.android.usbserial.util.SerialInputOutputManager_ListenerImplementor;mono.com.hoho.android.usbserial.util.SerialInputOutputManager_ListenerImplementor
+Com.Hoho.Android.Usbserial.Driver.IUsbSerialDriver, Binding;com.hoho.android.usbserial.driver.UsbSerialDriver
+Com.Hoho.Android.Usbserial.Driver.IUsbSerialDriver;com.hoho.android.usbserial.driver.UsbSerialDriver
+com.hoho.android.usbserial.driver.UsbSerialDriver;com.hoho.android.usbserial.driver.UsbSerialDriver
+Com.Hoho.Android.Usbserial.Driver.IUsbSerialPort, Binding;com.hoho.android.usbserial.driver.UsbSerialPort
+Com.Hoho.Android.Usbserial.Driver.IUsbSerialPort;com.hoho.android.usbserial.driver.UsbSerialPort
+com.hoho.android.usbserial.driver.UsbSerialPort;com.hoho.android.usbserial.driver.UsbSerialPort
+BR.Com.Itfast.Tectoy.ITectoyBalancaCallback, Binding;br.com.itfast.tectoy.TectoyBalancaCallback
+BR.Com.Itfast.Tectoy.ITectoyBalancaCallback;br.com.itfast.tectoy.TectoyBalancaCallback
+br.com.itfast.tectoy.TectoyBalancaCallback;br.com.itfast.tectoy.TectoyBalancaCallback
+BR.Com.Itfast.Tectoy.ITecToyCameraProfundidadeCallback, Binding;br.com.itfast.tectoy.TecToyCameraProfundidadeCallback
+BR.Com.Itfast.Tectoy.ITecToyCameraProfundidadeCallback;br.com.itfast.tectoy.TecToyCameraProfundidadeCallback
+br.com.itfast.tectoy.TecToyCameraProfundidadeCallback;br.com.itfast.tectoy.TecToyCameraProfundidadeCallback
 BR.Com.Itfast.Tectoy.ITecToyNfcCallback, Binding;br.com.itfast.tectoy.TecToyNfcCallback
 BR.Com.Itfast.Tectoy.ITecToyNfcCallback;br.com.itfast.tectoy.TecToyNfcCallback
 br.com.itfast.tectoy.TecToyNfcCallback;br.com.itfast.tectoy.TecToyNfcCallback
+BR.Com.Itfast.Tectoy.ITecToyReconhecimentoFacialCallback, Binding;br.com.itfast.tectoy.TecToyReconhecimentoFacialCallback
+BR.Com.Itfast.Tectoy.ITecToyReconhecimentoFacialCallback;br.com.itfast.tectoy.TecToyReconhecimentoFacialCallback
+br.com.itfast.tectoy.TecToyReconhecimentoFacialCallback;br.com.itfast.tectoy.TecToyReconhecimentoFacialCallback
 BR.Com.Itfast.Tectoy.ITecToyScannerCallback, Binding;br.com.itfast.tectoy.TecToyScannerCallback
 BR.Com.Itfast.Tectoy.ITecToyScannerCallback;br.com.itfast.tectoy.TecToyScannerCallback
 br.com.itfast.tectoy.TecToyScannerCallback;br.com.itfast.tectoy.TecToyScannerCallback
-BR.Com.Itfast.Tectoy.ITecToyServices, Binding;br.com.itfast.tectoy.TecToyServices
-BR.Com.Itfast.Tectoy.ITecToyServices;br.com.itfast.tectoy.TecToyServices
-br.com.itfast.tectoy.TecToyServices;br.com.itfast.tectoy.TecToyServices
+BR.Com.Itfast.Tectoy.Service.ICommunicationDevice, Binding;br.com.itfast.tectoy.service.ICommunicationDevice
+BR.Com.Itfast.Tectoy.Service.ICommunicationDevice;br.com.itfast.tectoy.service.ICommunicationDevice
+br.com.itfast.tectoy.service.ICommunicationDevice;br.com.itfast.tectoy.service.ICommunicationDevice
+BR.Com.Itfast.Tectoy.Service.ITecToyServices, Binding;br.com.itfast.tectoy.service.TecToyServices
+BR.Com.Itfast.Tectoy.Service.ITecToyServices;br.com.itfast.tectoy.service.TecToyServices
+br.com.itfast.tectoy.service.TecToyServices;br.com.itfast.tectoy.service.TecToyServices
+BR.Com.Daruma.Framework.Mobile.ISatCallback, Binding;br.com.daruma.framework.mobile.SatCallback
+BR.Com.Daruma.Framework.Mobile.ISatCallback;br.com.daruma.framework.mobile.SatCallback
+br.com.daruma.framework.mobile.SatCallback;br.com.daruma.framework.mobile.SatCallback
+BR.Com.Daruma.Framework.Mobile.PrinterManager+IPrinterManagerListener, Binding;br.com.daruma.framework.mobile.PrinterManager$PrinterManagerListener
+BR.Com.Daruma.Framework.Mobile.PrinterManager.IPrinterManagerListener;br.com.daruma.framework.mobile.PrinterManager$PrinterManagerListener
+br.com.daruma.framework.mobile.PrinterManager$PrinterManagerListener;br.com.daruma.framework.mobile.PrinterManager$PrinterManagerListener
+BR.Com.Daruma.Framework.Mobile.PrinterManager+IPrinterManagerListenerImplementor, Binding;mono.br.com.daruma.framework.mobile.PrinterManager_PrinterManagerListenerImplementor
+BR.Com.Daruma.Framework.Mobile.PrinterManager.IPrinterManagerListenerImplementor;mono.br.com.daruma.framework.mobile.PrinterManager_PrinterManagerListenerImplementor
+mono.br.com.daruma.framework.mobile.PrinterManager_PrinterManagerListenerImplementor;mono.br.com.daruma.framework.mobile.PrinterManager_PrinterManagerListenerImplementor
+BR.Com.Daruma.Framework.Mobile.Tef.ITefIT4R, Binding;br.com.daruma.framework.mobile.tef.ITefIT4R
+BR.Com.Daruma.Framework.Mobile.Tef.ITefIT4R;br.com.daruma.framework.mobile.tef.ITefIT4R
+br.com.daruma.framework.mobile.tef.ITefIT4R;br.com.daruma.framework.mobile.tef.ITefIT4R
+BR.Com.Daruma.Framework.Mobile.Tef.ITefIT4RCallback, Binding;br.com.daruma.framework.mobile.tef.TefIT4RCallback
+BR.Com.Daruma.Framework.Mobile.Tef.ITefIT4RCallback;br.com.daruma.framework.mobile.tef.TefIT4RCallback
+br.com.daruma.framework.mobile.tef.TefIT4RCallback;br.com.daruma.framework.mobile.tef.TefIT4RCallback
+BR.Com.Daruma.Framework.Mobile.Log.IDarumaLoggerConst, Binding;br.com.daruma.framework.mobile.log.DarumaLoggerConst
+BR.Com.Daruma.Framework.Mobile.Log.IDarumaLoggerConst;br.com.daruma.framework.mobile.log.DarumaLoggerConst
+br.com.daruma.framework.mobile.log.DarumaLoggerConst;br.com.daruma.framework.mobile.log.DarumaLoggerConst
+BR.Com.Daruma.Framework.Mobile.Log.Listeners.ITraceListener, Binding;br.com.daruma.framework.mobile.log.listeners.ITraceListener
+BR.Com.Daruma.Framework.Mobile.Log.Listeners.ITraceListener;br.com.daruma.framework.mobile.log.listeners.ITraceListener
+br.com.daruma.framework.mobile.log.listeners.ITraceListener;br.com.daruma.framework.mobile.log.listeners.ITraceListener
+BR.Com.Daruma.Framework.Mobile.Log.Listeners.ITraceListenerImplementor, Binding;mono.br.com.daruma.framework.mobile.log.listeners.ITraceListenerImplementor
+BR.Com.Daruma.Framework.Mobile.Log.Listeners.ITraceListenerImplementor;mono.br.com.daruma.framework.mobile.log.listeners.ITraceListenerImplementor
+mono.br.com.daruma.framework.mobile.log.listeners.ITraceListenerImplementor;mono.br.com.daruma.framework.mobile.log.listeners.ITraceListenerImplementor
+BR.Com.Daruma.Framework.Mobile.Constantes.IConstantesComunicacao, Binding;br.com.daruma.framework.mobile.constantes.IConstantesComunicacao
+BR.Com.Daruma.Framework.Mobile.Constantes.IConstantesComunicacao;br.com.daruma.framework.mobile.constantes.IConstantesComunicacao
+br.com.daruma.framework.mobile.constantes.IConstantesComunicacao;br.com.daruma.framework.mobile.constantes.IConstantesComunicacao
+BR.Com.Daruma.Framework.Mobile.Camera.Dependencies.ISendHandler, Binding;br.com.daruma.framework.mobile.camera.dependencies.ISendHandler
+BR.Com.Daruma.Framework.Mobile.Camera.Dependencies.ISendHandler;br.com.daruma.framework.mobile.camera.dependencies.ISendHandler
+br.com.daruma.framework.mobile.camera.dependencies.ISendHandler;br.com.daruma.framework.mobile.camera.dependencies.ISendHandler
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
