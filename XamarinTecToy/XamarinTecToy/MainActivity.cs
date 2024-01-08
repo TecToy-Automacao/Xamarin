@@ -44,6 +44,9 @@ namespace XamarinTecToy
             Button btnEscreverNFC = FindViewById<Button>(Resource.Id.btnEscreverNFC);
             btnEscreverNFC.Click += OnBtnEscreverNfcClicked;
 
+            Button btnImpFormatado = FindViewById<Button>(Resource.Id.btnImpFormatado);
+            btnImpFormatado.Click += OnBtnImpFormatadoClicked;
+
             txtImprimir = FindViewById<EditText>(Resource.Id.txtImprimir);
             txtValorNFC = FindViewById<TextView>(Resource.Id.txtValorNFC);
             txtEscreverNFC = FindViewById<EditText>(Resource.Id.txtEscreverNFC);
@@ -86,7 +89,7 @@ namespace XamarinTecToy
         {
             try
             {
-                tectoy.Imprimir(txtImprimir.Text);
+                tectoy.Imprimir(txtImprimir.Text );
                 Toast.MakeText(this, "Impressão ok!", ToastLength.Long).Show();
             }
             catch(TecToyException ex)
@@ -127,6 +130,50 @@ namespace XamarinTecToy
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+        }
+
+        private void OnBtnImpFormatadoClicked(object sender, EventArgs args)
+        {
+            string textoFormatado = "";
+            //Comandos ESC/POS de formatação para uso na impressão de texto
+            string centro = "" + ((char)0x1B) + ((char)0x61) + ((char)0x31);
+            string deslCentro = "" + ((char)0x1B) + ((char)0x61) + ((char)0x30);
+            string direita = "" + ((char)0x1B) + ((char)0x61) + ((char)0x32);
+            string deslDireita = "" + ((char)0x1B) + ((char)0x61) + ((char)0x30);
+            ///Fonte dupla altura 
+            string dupAlt = "" + ((char)0x1B) + ((char)0x21) + ((char)0x16);
+            ///FOnte dupla largura
+            string dupLargura = "" + ((char)0x1B) + ((char)0x21) + ((char)0x20);
+            ///desliga dupla altura ou largura
+            string deslDupla = "" + ((char)0x1B) + ((char)0x21) + ((char)0x00);
+            // fonte extra grande
+            string extraG = "" + ((char)0x1D) + ((char)0x21) + ((char)0x64);
+            string deslExtra = "" + ((char)0x1D) + ((char)0x21) + ((char)0x00);
+            string negrito = "" + ((char)0x1B) + ((char)0x45) + ((char)0x31);
+            string deslNegrito = "" + ((char)0x1B) + ((char)0x45) + ((char)0x30);
+            string invetImp = "" + ((char)0x1D) + ((char)0x42) + ((char)0x31);
+            string desligInvert = "" + ((char)0x1D) + ((char)0x42) + ((char)0x30);
+
+            textoFormatado = invetImp + centro + extraG + negrito + "TEC\nTOY" + deslNegrito + deslExtra + "\n" + desligInvert;
+            textoFormatado += centro + dupLargura + "Teste formatado" + " / " + "Dupla largura" + deslDupla + "\n\n";
+            textoFormatado += deslCentro + dupAlt + "Fonte dupla Altura" + " - " + "TecToy Automação" + deslDupla + "\n\n";
+            textoFormatado += centro + dupAlt + negrito + "Centro Negrito DuplAlt" + deslNegrito + deslDupla + "\n\n";
+            textoFormatado += deslCentro + "NORMAL\n IT FAST" + ((char)0xAE) + "\n Teste Tectoy" + ((char)0x99) + "\n\n\n\n";
+            try
+            {
+                tectoy.Imprimir(textoFormatado);
+                Toast.MakeText(this, "Impressão ok!", ToastLength.Long).Show();
+            }
+            catch (TecToyException ex)
+            {
+                Toast.MakeText(this, "Erro na impressão! " + ex.Message, ToastLength.Long).Show();
+            }
+
+        }
+
+        public void RetornarId(string p0)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -17,11 +17,15 @@ item;obj\Debug\71\res\menu\menu_main.xml
 item;obj\Debug\71\res\values\styles.xml
 LinearLayout;obj\Debug\71\res\layout\content_main.xml
 menu;obj\Debug\71\res\menu\menu_main.xml
+resources;D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\0\jl\res\values\values.xml
+resources;D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\0\jl\res\xml\device_filter.xml
 resources;obj\Debug\71\res\values\colors.xml
 resources;obj\Debug\71\res\values\dimens.xml
 resources;obj\Debug\71\res\values\ic_launcher_background.xml
 resources;obj\Debug\71\res\values\strings.xml
 resources;obj\Debug\71\res\values\styles.xml
+string;D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\0\jl\res\values\values.xml
 string;obj\Debug\71\res\values\strings.xml
 style;obj\Debug\71\res\values\styles.xml
 TextView;obj\Debug\71\res\layout\content_main.xml
+usb-device;D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\0\jl\res\xml\device_filter.xml

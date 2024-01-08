@@ -26,6 +26,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnImprimir" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
     <TextView
         android:text="Retorno NFC"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -43,4 +46,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnEscreverNFC" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+<Button
+        android:text="Imprimir Texto formatado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnImpFormatado" />
 </LinearLayout>

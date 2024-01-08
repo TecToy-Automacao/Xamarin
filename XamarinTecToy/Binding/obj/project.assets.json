@@ -1,59 +1,55 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v13.0": {},
-    "MonoAndroid,Version=v13.0/win": {},
-    "MonoAndroid,Version=v13.0/win-arm64": {},
-    "MonoAndroid,Version=v13.0/win-x64": {},
-    "MonoAndroid,Version=v13.0/win-x86": {}
+    "MonoAndroid,Version=v7.1": {},
+    "MonoAndroid,Version=v7.1/win": {},
+    "MonoAndroid,Version=v7.1/win-x64": {},
+    "MonoAndroid,Version=v7.1/win-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v13.0": []
+    "MonoAndroid,Version=v7.1": []
   },
   "packageFolders": {
-    "C:\\Users\\IT Fast\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Trabalho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
+      "projectUniqueName": "D:\\GitHub\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
       "projectName": "Binding",
-      "projectPath": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
-      "packagesPath": "C:\\Users\\IT Fast\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJETOS\\CLIENTES\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\obj\\",
+      "projectPath": "D:\\GitHub\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\Binding.csproj",
+      "packagesPath": "C:\\Users\\Trabalho\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\TECTOY\\Xamarin\\XamarinTecToy\\Binding\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\IT Fast\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Trabalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid13.0"
+        "monoandroid71"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid13.0": {
+        "monoandroid71": {
           "projectReferences": {}
         }
       }
     },
     "frameworks": {
-      "monoandroid13.0": {}
+      "monoandroid71": {}
     },
     "runtimes": {
       "win": {
-        "#import": []
-      },
-      "win-arm64": {
         "#import": []
       },
       "win-x64": {

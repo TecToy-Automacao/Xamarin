@@ -5,3 +5,10 @@ E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\Xam
 E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\stamp\_BuildLibraryImportsCache.stamp
 E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\res.flag
 E:\PROJETOS\CLIENTES\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\7\jl\files.cache
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\build.props
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\adb.props
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\XamarinTecToy.csproj.AssemblyReference.cache
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\stamp\_BuildLibraryImportsCache.stamp
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\res.flag
+D:\GitHub\TECTOY\Xamarin\XamarinTecToy\XamarinTecToy\obj\Debug\71\lp\0\jl\files.cache
